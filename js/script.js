@@ -10,7 +10,7 @@ const CONFIG = {
   business: "Clean and Shine Cleaning LLC",
   phone: "(732) 768-3587",
   phoneRaw: "+17327683587",
-  email: "cleanandshine@gmail.com", // receives every cleaning request
+  email: "vivi.usa001@gmail.com", // receives every cleaning request
   location: "New Jersey, NJ",
   paymentNote:
     "Payment is due on the day of service. Accepted methods: [add your methods here].",
